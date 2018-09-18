@@ -1,0 +1,19 @@
+name: ml
+channels:
+  - conda-forge
+  - damianavila82
+dependencies:
+  - python=>3.7
+  - ipython
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - numpy
+  - pandas  
+  - requests
+  - pip:
+    - scikit-learn=>0.19.2
+    - rise
+
+    
