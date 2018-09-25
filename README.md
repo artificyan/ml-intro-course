@@ -1,7 +1,7 @@
 University of San Francisco's Introduction to Machine Learning <br>  MSDS 621 Fall 2018
 ------
 
-<center><img src="https://imgs.xkcd.com/comics/machine_learning.png" align="middle" style="width: 40%"/></center>
+<center><img src="https://imgs.xkcd.com/comics/machine_learning.png" style="width: 40%"/></center>
 
 > "It's tough to make predictions, especially about the future."   
 > – Yogi Berra   
@@ -40,9 +40,11 @@ Learning Outcomes
 By the end of the course, you should be able to:  
 
 1. Apply fundamental machine learning models and methodology to solve real-world problems. 
-1. Write idiomatic Python code to model data. 
+1. Write idiomatic Python code to model data, both from scratch and with scikit-learn package.
+1. Define common machine learning terms.
 1. Explain common regression, classification and clustering algorithms.
-1. Build an end-to-end machine learning model.  
+1. Recognize when to and _when not to_ apply machine learning algorithms.
+1. Build an end-to-end machine learning model to an answer meaningful a Data Science question.
 
 ----
 Course Schedule
@@ -52,17 +54,17 @@ Course Schedule
 2.  (10/23) k-nearest neighbors (k-NN) ∧ ML Workflow 
 3.  (10/25) Regression ∧ Regularization ∧ Pipelines 
 4.  (10/30) Naive Bayes ∧ Evaluation Metrics ∧ Cross-Validation
-5.  (11/01) Generative vs. Discriminative Models ∧ Support Vector Machines (SVM) ∧ Kernels  
+5.  (11/01) Support Vector Machines (SVM) ∧ Kernels  
 6.  (11/06) Information Theory ∧ Decision Trees I
 7.  (11/08) Decision Trees II ∧ Feature Engineering 
-8.  (11/13) Review
+8.  (11/13) Generative vs. Discriminative Models ∧ Review
 9.  (11/15) Random Forest I ∧ Ensemble Methods
 10. (11/20) Random Forest II ∧ Hyperparameter Search
 11. (11/22) __NO CLASS__ : Thanksgiving Holiday 🦃 🍗 😴
 10. (11/27) Unsupervised Learning ∧ PCA 
 11. (11/29) K-Means Clustering 
 12. (12/04) Review (Possible Bonus Topic)
-13. (12/10 - 12/13) Final Project Group Presentations
+13. (12/07) Final Project Group Presentations
 
 Topics Not Covered
 -----
@@ -71,6 +73,7 @@ Topics Not Covered
 - Research (this is an applied course 🔨)
 - R programming language  (Python only 🐍)
 - Data acquisition (assume the data is in tabular form 📋)
+- Visualization (just the basics plots with matplotlib and Seaborn 📊)
 - Optimization (assume that we have decent solver 📉)
 - Productizing models (let the Data Engineers do that 👷)
 - Distributing models (let AMZN and GOOGL do that for you 📈)
@@ -78,6 +81,7 @@ Topics Not Covered
 - Bayesian framework (I wish we could… 😫)
 - Recommender Systems (wait for ML 2 ⌛)
 - Anomaly Detection (not enough time to get strange 👽)
+- Ethics (not enough time to think about implications 🤔)
 - Algorithms
     - Boosting
     - Neural Networks / Deep Learning
@@ -114,7 +118,6 @@ Weekly quizzes will be held __every week (including first week) on Thursdays fro
 1. Each student will answered all the questions on the quiz individually.
 1. Then the class will split into teams of 3-4. Each team will answer the same questions again, the goal is to reach consensus. This is an opportunity for peer-to-peer instruction which is often more effective than just hearing me prattle on!
 1. Finally, the answers to the questions will be gone over by the class, hopefully resolving any remaining misunderstandings.
-
 
 ### Labs
 
