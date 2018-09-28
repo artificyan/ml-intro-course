@@ -51,8 +51,8 @@ Course Schedule
 ----
 
 1.  (10/18) Welcome ∧ What is ML? ∧ Data Science Workflow 
-2.  (10/23) k-nearest neighbors (k-NN) ∧ ML Workflow 
-3.  (10/25) Regression ∧ Regularization ∧ Pipelines 
+2.  (10/23) k-nearest neighbors (k-NN) ∧ ML Workflow ∧ Pipelines 
+3.  (10/25) Regression ∧ Regularization ∧ Bias-Variance 
 4.  (10/30) Naive Bayes ∧ Evaluation Metrics ∧ Cross-Validation
 5.  (11/01) Support Vector Machines (SVM) ∧ Kernels  
 6.  (11/06) Information Theory ∧ Decision Trees I
@@ -78,7 +78,7 @@ Topics Not Covered
 - Productizing models (let the Data Engineers do that 👷)
 - Distributing models (let AMZN and GOOGL do that for you 📈)
 - Reinforcement Learning (we don't have time to play games 👾)
-- Bayesian framework (I wish we could… 😫)
+- Bayesian approach (I wish we could… 😫)
 - Recommender Systems (wait for ML 2 ⌛)
 - Anomaly Detection (not enough time to get strange 👽)
 - Ethics (not enough time to think about implications 🤔)
