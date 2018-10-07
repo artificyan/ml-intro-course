@@ -14,9 +14,8 @@ __Instructor:__ Brian Spiering
 __Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
 __Office hours__: Wednesdays 12n-1p in 522 & By Appointment   
 
-__Grader__: TBD  
-__Contact__: [Slack TBD](https://msan-usf.slack.com/messages/TBD) | [TBD@usfca.edu@usfca.edu](mailto:TBD@usfca.edu@usfca.edu)  
-__Office hours__: TBD   
+__Grader__: Sangyu Shen  
+__Contact__: [Slack @michiko](https://msan-usf.slack.com/messages/@U6606PMQV) | [sshen7@dons.usfca.edu](mailto:sshen7@dons.usfca.edu)     
 
 __Website__: [github.com/brianspiering/
 intro-to-ml](https://github.com/brianspiering/
@@ -34,6 +33,14 @@ Course Description
 
 This course focuses on the implementation and application of supervised and unsupervised machine learning algorithms using Python and related libraries. Students learn to properly select features and evaluate model accuracy. Models include at least kNN, naive Bayes, random forests, and clustering.
 
+Prerequisite Knowledge
+----
+
+- A working knowledge of probability and statistics 
+- Introductory knowledge of linear algebra (e.g., determinants and Singular Value Decomposition)
+- Intermediate level of Python (e.g., ability to create to classes) 
+- No knowledge of machine learning required
+
 Learning Outcomes
 ----
 
@@ -41,7 +48,7 @@ By the end of the course, you should be able to:
 
 1. Apply fundamental machine learning models and methodology to solve real-world problems. 
 1. Write idiomatic Python code to model data, both from scratch and with scikit-learn package.
-1. Define common machine learning terms.
+1. Define common machine learning terms and identify common examples.
 1. Explain common regression, classification and clustering algorithms.
 1. Recognize when to and _when not to_ apply machine learning algorithms.
 1. Build an end-to-end machine learning model to an answer meaningful a Data Science question.
@@ -53,7 +60,7 @@ Course Schedule
 1.  (10/18) Welcome ∧ What is ML? ∧ Data Science Workflow 
 2.  (10/23) k-nearest neighbors (k-NN) ∧ ML Workflow ∧ Pipelines 
 3.  (10/25) Regression ∧ Regularization ∧ Bias-Variance 
-4.  (10/30) Naive Bayes ∧ Evaluation Metrics ∧ Cross-Validation
+4.  (10/30) Naive Bayes ∧ Cross-Validation ∧ Evaluation Metrics 
 5.  (11/01) Support Vector Machines (SVM) ∧ Kernels  
 6.  (11/06) Information Theory ∧ Decision Trees I
 7.  (11/08) Decision Trees II ∧ Feature Engineering 
@@ -61,10 +68,10 @@ Course Schedule
 9.  (11/15) Random Forest I ∧ Ensemble Methods
 10. (11/20) Random Forest II ∧ Hyperparameter Search
 11. (11/22) __NO CLASS__ : Thanksgiving Holiday 🦃 🍗 😴
-10. (11/27) Unsupervised Learning ∧ PCA 
-11. (11/29) K-Means Clustering 
-12. (12/04) Review (Possible Bonus Topic)
-13. (12/07) Final Project Group Presentations
+12. (11/27) Unsupervised Learning ∧ PCA 
+13. (11/29) K-Means Clustering 
+14. (12/04) Review (Possible Bonus Topic)
+15. (12/07) Final Project Group Presentations
 
 Topics Not Covered
 -----
@@ -72,15 +79,15 @@ Topics Not Covered
 - Theory (no proofs 🙂)
 - Research (this is an applied course 🔨)
 - R programming language  (Python only 🐍)
-- Data acquisition (assume the data is in tabular form 📋)
-- Visualization (just the basics plots with matplotlib and Seaborn 📊)
+- Data acquisition (assume tabular data 📋)
+- Visualization (just basic plotting with matplotlib and Seaborn 📊)
 - Optimization (assume that we have decent solver 📉)
 - Productizing models (let the Data Engineers do that 👷)
 - Distributing models (let AMZN and GOOGL do that for you 📈)
-- Reinforcement Learning (we don't have time to play games 👾)
 - Bayesian approach (I wish we could… 😫)
-- Recommender Systems (wait for ML 2 ⌛)
 - Anomaly Detection (not enough time to get strange 👽)
+- Recommender Systems (wait for ML 2 ⌛)
+- Reinforcement Learning (we don't have time to play games 👾)
 - Ethics (not enough time to think about implications 🤔)
 - Algorithms
     - Boosting
