@@ -15,7 +15,8 @@ dependencies:
   - requests
   - rise
   - pip:
-    - git+https://github.com/scikit-learn/scikit-learn # Get dev version to work with Python 3.7
+    - git+https://github.com/scikit-learn/scikit-learn # Get dev version that works with Python 3.7
+    - dtreeviz
  
 
     

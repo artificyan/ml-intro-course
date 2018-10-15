@@ -36,10 +36,10 @@ This course focuses on the implementation and application of supervised and unsu
 Prerequisite Knowledge
 ----
 
-- A working knowledge of probability and statistics 
-- Introductory knowledge of linear algebra (e.g., determinants and Singular Value Decomposition)
-- Intermediate level of Python (e.g., ability to create to classes) 
-- No knowledge of machine learning required
+- A working knowledge of probability and statistics, 
+- Introductory knowledge of linear algebra (e.g., determinants and Singular Value Decomposition).
+- Intermediate level of Python (e.g., ability to create to classes). 
+- No previous knowledge of machine learning required.
 
 Learning Outcomes
 ----
@@ -47,7 +47,7 @@ Learning Outcomes
 By the end of the course, you should be able to:  
 
 1. Apply fundamental machine learning models and methodology to solve real-world problems. 
-1. Write idiomatic Python code to model data, both from scratch and with scikit-learn package.
+1. Write idiomatic Python code to model data. Primarily, using the scikit-learn package. Occasionally, implementing algorithms from scratch.
 1. Define common machine learning terms and identify common examples.
 1. Explain common regression, classification and clustering algorithms.
 1. Recognize when to and _when not to_ apply machine learning algorithms.
@@ -105,45 +105,49 @@ Topics Not Covered
 Grading
 ----
 
-| Item           | Weight |  
+| Item           | Weight |
 |:---------------|:------:|
-| Participation  | 10%    | 
-| Quizzes        | 30%    | 
+| Participation  | 10%    |
+| Quizzes        | 30%    |
 | Labs           | 30%    |
 | Final Project  | 30%    |
 
-### Attendance & Participation
- 
-Attendance is mandatory. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) should accompany absences due to sickness.
+### Participation
+
+I try to create an active learning environment in my classroom, which is incentivized with the _Participation_ grade. Attendance is mandatory, you can't participate if you don't attend. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) should accompany absences due to sickness.
+
+Tardiness negatively impacts an active learning environment, thus will impact your participation grade.
 
 You must show up to each session prepared. Each person is important to the dynamic of the class, and therefore students are required to participate in class activities. Expect to be "cold called". I call on students at random not to put you on the spot but to keep you engaged in the material at all times.
 
 ### Quizzes
 
-Weekly quizzes will be held __every week (including first week) on Thursdays from 8:55 am to 9:45 am__. They are intended to test your understanding of the materials. This includes recent material and items from previous classes. There are 3 parts: individual, small-group, and class
+Weekly quizzes will be held __every week (including first week) on Thursdays from 8:55 am to 9:45 am__. They are intended to test your understanding of the materials. This includes recent material and items from previous classes. There are 3 parts to each quiz session: individual, small-group, and class
 
-1. Each student will answered all the questions on the quiz individually.
-1. Then the class will split into teams of 3-4. Each team will answer the same questions again, the goal is to reach consensus. This is an opportunity for peer-to-peer instruction which is often more effective than just hearing me prattle on!
-1. Finally, the answers to the questions will be gone over by the class, hopefully resolving any remaining misunderstandings.
+1. Individually, each student will answered all the questions on the quiz.
+1. In small-groups, teams of 3-4 will answer the same questions again, the goal is to reach consensus. This is an opportunity for peer-to-peer instruction which is often more effective than just hearing me prattle on!
+1. As a class, we'll go over the answers to the questions. Taking time to resolve any remaining misunderstandings.
 
 ### Labs
 
 The labs will be hands-on activities. They will require a combination of coding and writing. The coding sections will be implementing algorithms from scratch or applying common libraries (e.g., scikit-learn, nltk, and keras). The writing sections will focus on communication to technical and nontechnical audiences.
 
+The labs for each week, both Tuesday and Thursday, will be due on Sunday at 11 pm.
+
 Late assignments will only be accepted for medical emergencies.
 
-### Final Project
+### Final Project 
 
-Details in Final Project Folder.
+In lieu of Final Exam, there will be a final project. Details in Final Project Folder.
 
 ----
 Grading
 ----
 
-| Grade | Final Percentage |  
+| Grade | Final Percentage |
 |:-----:|:----------------:|
-| A     | ≥ 98%            |  
-| A     | ≥ 93%  and < 98% | 
+| A     | ≥ 98%            |
+| A     | ≥ 93%  and < 98% |
 | A-    | ≥ 90% and < 93%  |
 | B+    | ≥ 87% and < 90%  |
 | B     | ≥ 83% and < 87%  |
