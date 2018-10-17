@@ -3,19 +3,21 @@ channels:
   - conda-forge
   - damianavila82
 dependencies:
-  - python==3.7
+  - python==3.6 # We have to use 3.6 because of nbgrader
   - cython
+  - dataclasses
   - ipython
   - jupyter
   - jupyterlab
   - matplotlib
-  - seaborn
-  - numpy
   - pandas  
+  - nbgrader
+  - numpy
+  - seaborn
+  - scikit-learn
   - requests
   - rise
   - pip:
-    - git+https://github.com/scikit-learn/scikit-learn # Get dev version that works with Python 3.7
     - dtreeviz
  
 

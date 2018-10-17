@@ -11,7 +11,7 @@ Logistics
 ----
 
 __Instructor:__ Brian Spiering   
-__Contact__: [Slack DM](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
+__Contact__: [Slack @Brian Spiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
 __Office hours__: Wednesdays 12n-1p in 522 & By Appointment   
 
 __Grader__: Sangyu Shen  
@@ -36,10 +36,10 @@ This course focuses on the implementation and application of supervised and unsu
 Prerequisite Knowledge
 ----
 
-- A working knowledge of probability and statistics, 
-- Introductory knowledge of linear algebra (e.g., determinants and Singular Value Decomposition).
-- Intermediate level of Python (e.g., ability to create to classes). 
-- No previous knowledge of machine learning required.
+- Working knowledge of probability and statistics
+- Introductory knowledge of linear algebra (e.g., determinants and Singular Value Decomposition)
+- Intermediate level of Python (e.g., ability to create to classes)
+- No previous knowledge of machine learning required
 
 Learning Outcomes
 ----
@@ -47,11 +47,11 @@ Learning Outcomes
 By the end of the course, you should be able to:  
 
 1. Apply fundamental machine learning models and methodology to solve real-world problems. 
-1. Write idiomatic Python code to model data. Primarily, using the scikit-learn package. Occasionally, implementing algorithms from scratch.
-1. Define common machine learning terms and identify common examples.
+1. Write idiomatic Python code to model data. Primarily using the scikit-learn package. Occasionally implementing algorithms from scratch.
+1. Define common machine learning terms and identify applied examples.
 1. Explain common regression, classification and clustering algorithms.
 1. Recognize when to and _when not to_ apply machine learning algorithms.
-1. Build an end-to-end machine learning model to an answer meaningful a Data Science question.
+1. Build end-to-end machine learning models to an answer meaningful Data Science questions.
 
 ----
 Course Schedule
@@ -122,7 +122,11 @@ You must show up to each session prepared. Each person is important to the dynam
 
 ### Quizzes
 
-Weekly quizzes will be held __every week (including first week) on Thursdays from 8:55 am to 9:45 am__. They are intended to test your understanding of the materials. This includes recent material and items from previous classes. There are 3 parts to each quiz session: individual, small-group, and class
+Weekly quizzes will be held __every week (including first week) on Thursdays from 8:55 am to 9:45 am__. They are intended to test your understanding of the material. This includes recent material and all material from previous classes. 
+
+Please use the restroom before the quiz. If you have to use the restroom, surrender your cellphone to the instructor before leaving the room. 
+
+There are 3 parts to each quiz session: individual, small-group, and class.
 
 1. Individually, each student will answered all the questions on the quiz.
 1. In small-groups, teams of 3-4 will answer the same questions again, the goal is to reach consensus. This is an opportunity for peer-to-peer instruction which is often more effective than just hearing me prattle on!
@@ -130,15 +134,15 @@ Weekly quizzes will be held __every week (including first week) on Thursdays fro
 
 ### Labs
 
-The labs will be hands-on activities. They will require a combination of coding and writing. The coding sections will be implementing algorithms from scratch or applying common libraries (e.g., scikit-learn, nltk, and keras). The writing sections will focus on communication to technical and nontechnical audiences.
+The labs will be hands-on activities. They will require a combination of coding and writing. The coding sections will be implementing algorithms from scratch or applying common libraries (e.g., scikit-learn). The writing sections will focus on communication to technical and nontechnical audiences.
 
-The labs for each week, both Tuesday and Thursday, will be due on Sunday at 11 pm.
+The labs for each week, both Tuesday and Thursday, will be due on Sunday at 10 pm.
 
 Late assignments will only be accepted for medical emergencies.
 
 ### Final Project 
 
-In lieu of Final Exam, there will be a final project. Details in Final Project Folder.
+In lieu of a Final Exam, there will be a Final Project. Details in Final Project Folder.
 
 ----
 Grading
