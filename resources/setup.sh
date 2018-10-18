@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Before running this script, install miniconda with Python 3.7
+# Before running this script, install miniconda
 # https://conda.io/docs/user-guide/install/macos.html
 
 set -e # Exit immediately if a command exits with a non-zero status
