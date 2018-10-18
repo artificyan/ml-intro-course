@@ -18,8 +18,10 @@ source activate $envname
 # Update environment (might break stuff. move fast‽)
 conda update --all --yes
 
+# Upgrade - Not really necessary but nice
+pip install --upgrade pip
+
 # Install graphviz for visualizing trees on Mac using homebrew
 brew install graphviz
+# For Linux, download here https://graphviz.gitlab.io/download/
 
-# Upgrade. Not really necessary but nice
-pip install --upgrade pip

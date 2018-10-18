@@ -18,8 +18,7 @@ __Grader__: Sangyu Shen
 __Contact__: [Slack @michiko](https://msan-usf.slack.com/messages/@U6606PMQV) | [sshen7@dons.usfca.edu](mailto:sshen7@dons.usfca.edu)     
 
 __Website__: [github.com/brianspiering/
-intro-to-ml](https://github.com/brianspiering/
-intro-to-ml)    
+intro-to-ml](https://github.com/brianspiering/intro-to-ml)    
 __Communciation__: Slack [`#msds_621_2018`](https://msan-usf.slack.com/messages/CCFG7MWSJ)  
 __Location__: 101 Howard, San Francisco, CA   
 __Sections__: 
