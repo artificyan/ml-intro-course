@@ -15,3 +15,11 @@ Optional
 ------
 
 - [Machine learning take on linear regression](https://www.youtube.com/watch?v=vwIXNPC5J58)
+
+
+Challenge
+-----
+
+- [Theoretical take on Bias-Variance](https://www.youtube.com/watch?v=zrEyxfl2-a8&hd=1)
+- [Theoretical take on Regularization](https://www.youtube.com/watch?v=I-VfYXzC5ro&hd=1)
+- [Statistical Learning with Sparsity: The Lasso and Generalizations ](https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/ref=sr_1_3?ie=UTF8&qid=1540433159&sr=8-3&keywords=tibshirani) An entire book on Lasso (perfect x-mas gift for Jeff)
