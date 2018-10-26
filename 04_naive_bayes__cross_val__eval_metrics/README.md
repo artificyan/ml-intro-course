@@ -22,8 +22,10 @@ Naive Bayes:
 Optional
 ------
 
+- [Udacity Videos on Naive Bayes 30-55](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 - Read [Text classification and Naive Bayes](https://web.stanford.edu/class/cs124/lec/naivebayes.pdf)   
 - Read [Naive Bayes blogpost](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html)
+
 
 Challenge
 -----
