@@ -15,6 +15,7 @@ dependencies:
   - numpy
   - seaborn
   - scikit-learn
+  - scipy
   - requests
   - rise
   - pip:

@@ -13,6 +13,8 @@ Machine Learning Glossary
 Term: Definition
 --------
 
+- Epoch: A complete pass through the training dataset.
+
 - Example: An instance (with its features) and a label.
 
 - Feature: A property of an instance used in a prediction task. For example, a web page might have a feature "contains the word 'cat'".
@@ -25,9 +27,17 @@ Term: Definition
 
 - Metric: A number that you care about. May or may not be directly optimized.
 
-- Model: A representation of a prediction task. You train a model on examples then use the model to make predictions.
+- Model: The result of applying a machine learning algorithm. After training a dataset, you have a specific model that then can be usedto make predictions.
 
 - Objective: A metric that your algorithm is trying to optimize.
+
+- Parameters:  
+    - Model-parameters: 
+        - Properties of specific model for a specific dataset.
+        - Learned during training.
+    - Hyper-parameters:
+        - Properties of the algorithm that control how the model is fit.
+        - Either learned or choosen before training.
 
 - Pipeline: The infrastructure surrounding a machine learning algorithm. Includes gathering the data, putting it into tabular form, training models, and exporting the models to be used in other systems.
 
