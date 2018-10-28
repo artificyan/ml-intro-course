@@ -10,9 +10,10 @@ dependencies:
   - jupyter
   - jupyterlab
   - matplotlib
-  - pandas  
+  - mlxtend
   - nbgrader
   - numpy
+  - pandas 
   - seaborn
   - scikit-learn
   - scipy

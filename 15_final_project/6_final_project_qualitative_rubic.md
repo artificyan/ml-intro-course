@@ -7,6 +7,16 @@ Names: _________________________
 Project: _________________________
 <br>
 <br>
+
+General Observations 😶:
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 Things you did well 😀:
 
 <br>
@@ -25,14 +35,6 @@ Things you can improve on 😦:
 <br>
 <br>
 
-Observations 😶:
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 X factor 🦄:
 

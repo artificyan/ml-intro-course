@@ -25,7 +25,7 @@ These steps are iterative (do a little preprocessing, do a little modeling, redo
 
 This project will become a part of your public Data Science portfolio, thus all data must be public data.  
 
-Make your own groups of 3-5 students.
+Make your own groups of 3-5 students. They can be across sections.
 
 ----
 1. Ask the right question
@@ -37,9 +37,9 @@ This is your project so it is up to your team to develop the right question.
 2. Acquire the relevant data
 ----
 
-It is best if you pick a single and unique dataset. 
+It is best if your team picks a single, unique dataset. The instructor will approve the data to make sure it is appropriate and within scope.
 
-Just make sure the data is apporiate, it needs to be approved by the instructor. Acquiring data should not take away from the other aspects of the project (i.e., no collecting or web scraping the data). 
+Acquiring data should not take away from the other aspects of the project (i.e., no collecting or web scraping the data). 
 
 ----
 3. Process the data
@@ -61,7 +61,7 @@ For each step, I want both an empirical and a logical justification for the choi
 5. Deliver
 -----
 
-You'll communicating your findings to a technical audience. You'll give a group presentation during the final exam period on 2018-12-07 and provide a link to GitHub with Jupyter Notebook. The presentation will be 8 minutes with 2 minutes of questions and (hopefully) answers. The presentation and organization of your repo and code style will be scored. 
+You'll communicating your findings to a technical audience. You'll give a group presentation during the final exam period on 2018-12-07 and provide a link to GitHub with Jupyter Notebooks. The presentation will be 8 minutes with 2 minutes of questions and (hopefully) answers. The presentation and organization of your repo and code style will be scored. 
 
 ----
 Hints
