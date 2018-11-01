@@ -24,6 +24,7 @@ Optional
 Challenge
 -----
 
+- [The math behind SVMs](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 - [Theoretical take on SVMs](https://www.youtube.com/watch?v=eHsErlPJWUU&hd=1)
 - [Theoretical take on Kernel Methods](https://www.youtube.com/watch?v=XUj5JbQihlU&hd=1)
 - [Classes of Kernels for Machine Learning: A Statistics Perspective](http://www.jmlr.org/papers/volume2/genton01a/genton01a.pdf)
