@@ -13,23 +13,30 @@ Machine Learning Glossary
 Term: Definition
 --------
 
+- Accuracy: Percentage of correct predictions made by a model.
+
+- Algorithm: An unambiguous specification of how to solve a particular problem. In Machine Learning, an algorithm is a list of explicit steps that include: data ingest -> feature extraction -> train model -> predict -> evaluation metrics. Examples: linear regression and SVM
+
 - Epoch: A complete pass through the training dataset.
 
 - Example: An instance (with its features) and a label.
 
-- Feature: A property of an instance used in a prediction task. For example, a web page might have a feature "contains the word 'cat'".
+- Feature: A property of an instance used in a prediction task. Should be columns in dataframe. For example, a cat may be "black" in color.
 
 - Feature Column: A set of related features, such as the set of all possible countries in which users might live. An example may have one or more features present in a feature column. A feature column is referred to as a “namespace” in the VW system (at Yahoo/Microsoft), or a field.
 
-- Instance: The thing about which you want to make a prediction. For example, the instance might be a web page that you want to classify as either "about cats" or "not about cats". Label: An answer for a prediction task ­­ either the answer produced by a machine learning system, or the right answer supplied in training data. For example, the label for a web page might be "about cats".
+- Instance: The thing about which you want to make a prediction. For example, the instance might be a web page that you want to classify as either "about cats" or "not about cats".
 
 - Label: An answer for a prediction task ­­ either the answer produced by a machine learning system, or the right answer supplied in training data. For example, the label for a web page might be "about cats".
 
 - Metric: A number that you care about. May or may not be directly optimized.
 
-- Model: The result of applying a machine learning algorithm. After training a dataset, you have a specific model that then can be usedto make predictions.
+- Model: The result of applying a machine learning algorithm. After training a dataset, you have a specific model that then can be used to make predictions.
 
 - Objective: A metric that your algorithm is trying to optimize.
+
+- Optimization: The process of finding the best parameters for a specific model on a specific dataset. Common Examples: ordinary least squares (OLS) and Stochastic gradient descent (SGD)
+    - Constrained Optimization: Willing to accept a worse estimate of the model parameter to satisfy other external conditions. Common Examples: Lasso, Ridge, and Elastic Net regression
 
 - Parameters:  
     - Model-parameters: 
@@ -37,10 +44,14 @@ Term: Definition
         - Learned during training.
     - Hyper-parameters:
         - Properties of the algorithm that control how the model is fit.
-        - Either learned or choosen before training.
+        - Either learned or chosen before training.
 
 - Pipeline: The infrastructure surrounding a machine learning algorithm. Includes gathering the data, putting it into tabular form, training models, and exporting the models to be used in other systems.
 
+- Supervised learning: This is the most common kind of (commercial) ML algorithm today where the system is presented with labeled examples to explicitly learn from.
+
+- Unsupervised learning: In contrast to supervised learning, the ML algorithm has to infer the inherent structure of the data that is not annotated with labels.
+ 
 -------
 Other resources & references
 -------
