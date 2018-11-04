@@ -1,6 +1,8 @@
 Prework
 ======
 
+<center><img src="https://imgs.xkcd.com/comics/password_strength.png" width="75%"/></center>
+
 Required
 ------
 
@@ -16,6 +18,8 @@ Required
 Optional
 ------
 
+- [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+- [A Friendly Introduction to Cross-Entropy Loss](http://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 - Information Theory and Statistics: an overview by Daniel Commenges in readings folder
 - Decision trees: an overview and their use in medicine in the readings folder
 
@@ -25,3 +29,5 @@ Challenge
 - [Introduction to Information Theory ](https://www.youtube.com/watch?v=BCiZc0n6COY)(1 hour; dry but accurate)
 - [IT by Raymond W. Yeung](https://www.youtube.com/watch?v=2Zabhv0aju0&index=3&list=PLJfu_xpF92pvTfcJAILr5Kg1ptMvHUnft)(the best MOOC available)
 - Elements of Information Theory by Cover and Thomas    
+- [Information Theory: A Tutorial Introduction](http://jim-stone.staff.shef.ac.uk/BookInfoTheory/InfoTheoryBookMain.html) Hands on with code
+- [Information Theory, Learning and Big Data Workshop](https://simons.berkeley.edu/workshops/schedule/857)
