@@ -31,6 +31,7 @@
 1. \_\_\_\_ (0-5) Model fitting process:
 
     - Fit multiple algorithms: \_\_\_\_
+        - At least one algorithm from class: \_\_\_\_
     - Fit multiple models for each algorithm: \_\_\_\_
     - Hyperparameter tuning: \_\_\_\_
     - Regularization: \_\_\_\_

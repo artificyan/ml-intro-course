@@ -1,6 +1,8 @@
 Final Projects Examples
 ======
 
+- A Complete Machine Learning Project Walk-Through in Python: [ part 1](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420), [part 2](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2), [part 3](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
+
 Here are examples from a previous Natural Language Processing course. They are examples of student projects but only use text data. Please use any kind of data for this course.
 
 Exemplary Examples
