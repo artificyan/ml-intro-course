@@ -57,19 +57,19 @@ Course Schedule
 ----
 
 1.  (10/18) Welcome ∧ What is ML? ∧ Data Science Workflow 
-2.  (10/23) k-nearest neighbors (k-NN) ∧ ML Workflow ∧ Pipelines 
+2.  (10/23) ML Workflow ∧ k-nearest neighbors (k-NN)  
 3.  (10/25) Regression ∧ Regularization ∧ Bias-Variance 
-4.  (10/30) Naive Bayes ∧ Cross-Validation ∧ Evaluation Metrics 
+4.  (10/30) Naive Bayes  ∧ Evaluation Metrics 
 5.  (11/01) Support Vector Machines (SVM) ∧ Kernels  
 6.  (11/06) Information Theory ∧ Decision Trees I
-7.  (11/08) Decision Trees II ∧ Feature Engineering 
-8.  (11/13) Generative vs. Discriminative Models ∧ Review
-9.  (11/15) Random Forest I ∧ Ensemble Methods
+7.  (11/08) Decision Trees II
+8.  (11/13) Feature Engineering ∧ Cross-Validation ∧ Pipelines
+9.  (11/15) Ensemble Methods ∧ Random Forest I  
 10. (11/20) Random Forest II ∧ Hyperparameter Search
 11. (11/22) __NO CLASS__ : Thanksgiving Holiday 🦃 🍗 😴
 12. (11/27) Unsupervised Learning ∧ PCA 
 13. (11/29) K-Means Clustering 
-14. (12/04) Review (Possible Bonus Topic)
+14. (12/04) Bonus Topic
 15. (12/07) Final Project Group Presentations
 
 Topics Not Covered
