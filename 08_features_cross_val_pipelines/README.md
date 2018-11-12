@@ -32,6 +32,7 @@ Optional
 Challenge
 -----
 
+- [Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241)
 - [Feature Extraction: Foundations and Applications](https://www.amazon.com/dp/3540354875?tag=inspiredalgor-20)
 - [Feature Extraction, Construction and Selection: A Data Mining Perspective](https://www.amazon.com/dp/0792381963)
 
