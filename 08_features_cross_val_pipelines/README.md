@@ -24,6 +24,7 @@ Required
 Optional
 ------
 
+- [How (and why) to create a good validation set](https://www.fast.ai/2017/11/13/validation-sets/)
 - [An Empirical Analysis of Feature Engineering for Predictive Modeling](https://arxiv.org/pdf/1701.07852.pdf)
 - [Empirical study of seven data mining algorithms on different characteristics of datasets for biomedical classification applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5668968/pdf/12938_2017_Article_416.pdf)
 - [Deploying Machine Learning using sklearn pipelines](https://www.youtube.com/watch?v=URdnFlZnlaE) by Kevin Goetsch
