@@ -10,7 +10,8 @@ Introductory
 Required
 ------
 
-- Bagging, Random Forest, Boosting 8.2 from [Introduction to Statistical Learning (ISL)](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) 
+- [A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
+- Bagging, Forest, Boosting 8.2 from [Introduction to Statistical Learning (ISL)](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) 
 - [Boosting, Bagging, and Stacking — Ensemble Methods](https://medium.com/@rrfd/boosting-bagging-and-stacking-ensemble-methods-with-sklearn-and-mlens-a455c0c982de)
 - [Random Forest Simple Explanation](https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d)
 - [The Random Forest Algorithm](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd)
