@@ -53,7 +53,7 @@ By the end of the course, you should be able to:
 1. Build end-to-end machine learning models to an answer meaningful Data Science questions.
 
 ----
-Course Schedule
+Tentative Course Schedule
 ----
 
 1.  (10/18) Welcome ∧ What is ML? ∧ Data Science Workflow 
@@ -65,12 +65,14 @@ Course Schedule
 7.  (11/08) Decision Trees II
 8.  (11/13) Feature Engineering ∧ Cross-Validation ∧ Pipelines
 9.  (11/15) Ensemble Methods ∧ Random Forest I  
-10. (11/20) Random Forest II ∧ Hyperparameter Search
-11. (11/22) __NO CLASS__ : Thanksgiving Holiday 🦃 🍗 😴
-12. (11/27) Unsupervised Learning ∧ PCA 
-13. (11/29) K-Means Clustering 
-14. (12/04) Bonus Topic
+10. (11/20) __NO CLASS SESSION__: Classes canceled due to smoke
+11. (11/22) __NO CLASS SESSION__: Thanksgiving Holiday 🦃 🍗 😴
+12. (11/27) Supervised ML Learning Potpourri
+13. (11/29) Unsupervised Learning ∧ PCA 
+14. (12/04) K-Means Clustering 
 15. (12/07) Final Project Group Presentations
+
+_Possible additional session to make-up for missed session on 11/20 is to be determined_
 
 Topics Not Covered
 -----

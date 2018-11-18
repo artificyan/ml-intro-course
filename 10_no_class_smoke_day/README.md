@@ -1,0 +1,1 @@
+2018-11-20 - [There is no class due to smoke from wildfires](https://myusf.usfca.edu/news-releases/resources-for-those-affected-by-california-fires?utm_source=usftwitter&utm_medium=social&utm_campaign=campfire)
