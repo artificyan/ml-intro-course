@@ -69,4 +69,7 @@ Hints
 
 - Make it run, make it right, make it fast. (in that order)
 - Go end-to-end as quickly possible. From raw data -> simple model -> evaluation. Then explore options for each stage.
-- How do I get a "A"? Do something groundbreaking (seriously). Either ground-breaking for the field or for the class.
+- How do I get a "A"? 
+    - Do something groundbreaking (seriously). Either ground-breaking for the field or for the class.
+    - Fit models and use methodology from outside class materials
+    - Error bars!!!

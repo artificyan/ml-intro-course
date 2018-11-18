@@ -36,16 +36,18 @@
     - Hyperparameter tuning: \_\_\_\_
     - Regularization: \_\_\_\_
     - Train-test split: \_\_\_\_
+    - Pipelines: \_\_\_\_
     - Visualizations (e.g., learning curves): \_\_\_\_
     - Evaluation metrics: \_\_\_\_
         - Multiple: \_\_\_\_
         - Appropriate: \_\_\_\_
+    - Compare models to chance performance: \_\_\_\_
     
 1. \_\_\_\_ (0-5) Model results:
 
-    - Present best possible model: \_\_\_\_ 
-    - Visual analysis of models: \_\_\_\_
-    - Numerical analysis of models: \_\_\_\_
+    - Present best model: \_\_\_\_ 
+    - Visual analysis of model: \_\_\_\_
+    - Numerical analysis of model: \_\_\_\_
     - Interpretation: \_\_\_\_
     - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
