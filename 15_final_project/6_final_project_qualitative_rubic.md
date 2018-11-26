@@ -1,23 +1,14 @@
-Final Project Qualitative Assessment
------
+<center><h2>Final Project Qualitative Assessment</h2></center>
 
-Names: _________________________
-<br>
-<br>
-Project: _________________________
-<br>
-<br>
 
-General Observations 😶:
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Group Name: _________________________
 <br>
 <br>
-<br>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project: _________________________
 <br>
 <br>
 
-Things you did well 😀:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;General Observations 😶:
 
 <br>
 <br>
@@ -25,22 +16,38 @@ Things you did well 😀:
 <br>
 <br>
 <br>
-
-Things you can improve on 😦:
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
-
-X factor 🦄:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Things done well 😀:
 
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-Action Items 👷:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Things to improve on 😦:
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X factor 🦄:
+
+<br>
+<br>
+<br>
+<br>

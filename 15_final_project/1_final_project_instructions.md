@@ -53,7 +53,7 @@ Acquiring data should not take away from the other aspects of the project (i.e.,
 3. Model
 ----
 
-You must fit at least 2 different types of models and compare results. For example, your team could pick logistic regression and random forest. Or your team could pick k-means clustering and spectral clustering.
+You must fit at least 2 different types of models and compare results. For example, your team could pick logistic regression and Random Forest™. Or your team could pick k-means clustering and spectral clustering. One of the models must be from the course.
 
 For each step, I want both an empirical and a logical justification for the choices you made. That is: show us that the choice you picked is empirically superior to the alternative (better F1 score, etc.) and explain why you think that is.  
 
