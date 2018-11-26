@@ -61,6 +61,7 @@ Other resources & references
     - [Acronyms](https://machinelearning.wtf/acronyms/)
 
 - Glossaries
+    - [Josh's glossary](https://semanti.ca/blog/?glossary-of-machine-learning-terms)
     - [Analytics Vidhya's glossary](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
     - [scikit-learn's glossary](http://scikit-learn.org/stable/glossary.html#glossary)
     - [Terms & Definitions](https://github.com/bfortuner/ml-cheatsheet/blob/master/docs/glossary.rst)

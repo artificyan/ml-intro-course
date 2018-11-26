@@ -20,7 +20,9 @@ dependencies:
   - requests
   - rise
   - pip:
+    - dit
     - dtreeviz
+
  
 
     
