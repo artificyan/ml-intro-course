@@ -66,6 +66,7 @@
     - Organization: \_\_\_\_
     - Content: \_\_\_\_
     - Clarity / Readability of slides: \_\_\_\_
+    - Demo / Live website: \_\_\_\_
     - Nonverbal Delivery: \_\_\_\_
     - Q & A:  \_\_\_\_
     - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -81,7 +82,6 @@
     - Tests: \_\_\_\_
     - Helpful commit messages: \_\_\_\_
     - Followed [pep8](http://pep8.org/) style guidelines: \_\_\_\_
-    - Live website / demo: \_\_\_\_
     - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
   
 	<br>

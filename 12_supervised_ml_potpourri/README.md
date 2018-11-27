@@ -5,11 +5,9 @@ Agenda
 -----
 
 - Grid Search
-- Random Forest™, out-of-bag samples 
-- Regression variety of tree-based methods
-- Handling unbalanced data
-- "No Free Lunch" (NFL) theorem
-- How to compare ML models
+- Regression for tree-based methods
+- Random Forest™ and out-of-bag samples 
+- Last lab
 
 Required
 ------
