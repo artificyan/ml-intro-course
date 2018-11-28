@@ -1,14 +1,6 @@
 Prework: Supervised Machine Learning Potpourri
 ======
 
-Agenda
------
-
-- Grid Search
-- Regression for tree-based methods
-- Random Forest™ and out-of-bag samples 
-- Last lab
-
 Required
 ------
 
@@ -17,9 +9,6 @@ Required
 - The Mechanics of Machine Learning by Terence Parr and Jeremy Howard
     - From [Training an initial model](https://mlbook.explained.ai/prep.html#sec:3.4) to end
 - [7 techniques to handle imbalanced data](https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
-- 6.1.3 Choosing the Optimal Model from [Introduction to Statistical Learning (ISL)](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) 
-- [The No Free Lunch Theorem](https://www.coursera.org/lecture/guided-tour-machine-learning-finance/the-no-free-lunch-theorem-a0rXt) (8 minutes)
-- [No Free Lunch Theorem](https://medium.com/@javafolabi/no-free-lunch-theorem-what-you-should-watch-out-for-when-developing-your-algorithms-e9abff4c1d99)
 
 Challenge
 -----
