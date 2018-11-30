@@ -4,6 +4,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_ Total Points
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each project will be evaluated on the top-level / numbered areas.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The bottom-level / unnumbered criteria will contribute to the area score.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each bottom-level / unnumbered criteria will be assigned:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'--': 'Very poorly done', '-': 'Poorly done', '+': 'Well done', '++': 'Very well done', 'NA': 'Not Applicable'}.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Not Applicable' is an option because it might not be appropriate to evaluate every project on every criteria.
 
 1. \_\_\_\_ (0-5) Dataset & Research Question:
 
@@ -46,7 +51,8 @@
     - Unnecessary use of `random state=42` (lose points): \_\_\_\_
     
 	<br>
-<P style="page-break-before: always">
+    <P style="page-break-before: always">
+    
 1. \_\_\_\_ (0-5) Model results:
 
     - Visual analysis of models: \_\_\_\_
