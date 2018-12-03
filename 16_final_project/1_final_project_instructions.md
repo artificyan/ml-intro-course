@@ -53,7 +53,7 @@ Make your own groups of 3-5 students. They can be across sections.
 
 5. Deliver
 
-	You'll communicating your findings to a technical audience. You'll give a group presentation during the final exam period on 2018-12-07 and provide a link to GitHub with Jupyter Notebooks. The presentation will be 8 minutes with 2 minutes of questions and (hopefully) answers. The presentation and organization of your repo and code style will be scored. 
+	You'll communicating your findings to a technical audience. You'll give a group presentation during the final exam period on 2018-12-07 and sumbit a link to GitHub repo with Jupyter Notebooks on Canvas. The presentation will be 10 minutes with 3 minutes of questions and (hopefully) answers. The presentation and organization of your repo and code style will be scored. 
 
 ----
 Hints
