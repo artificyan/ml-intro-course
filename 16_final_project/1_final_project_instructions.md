@@ -1,8 +1,8 @@
 Machine Learning Final Project
 ------
 
-Due date: 2018-12-07   
-Purpose: Build an end-to-end machine learning model.   
+Due date: 2018-12-07 6pm (Last commit)  
+Purpose: Build an end-to-end machine learning model   
 Signup: [Google Sheet](https://docs.google.com/spreadsheets/d/1iOp3_00-PA_wJ0V8DQUhZyvOGF5mt7KlH3YRWikcGuo/edit?usp=sharing)   
 
 ### Learning Outcomes:
@@ -28,40 +28,32 @@ This project will become a part of your public Data Science portfolio, thus all 
 Make your own groups of 3-5 students. They can be across sections.
 
 ----
+
 1. Ask the right question
-----
 
-This is your project so it is up to your team to develop the right question. 
+	This is your project so it is up to your team to develop the right question. 
 
-----
 2. Acquire the relevant data
-----
+	
+	It is best if your team picks a single, unique dataset. The instructor will approve the data to make sure it is appropriate and within scope.
 
-It is best if your team picks a single, unique dataset. The instructor will approve the data to make sure it is appropriate and within scope.
+	Acquiring data should not take away from the other aspects of the project (i.e., no collecting or web scraping the data). 
 
-Acquiring data should not take away from the other aspects of the project (i.e., no collecting or web scraping the data). 
-
-----
 3. Process the data
-----
 
-- What specific munging issues do you have to address (e.g., encoding, missing data, or data to exclude)?
-- What descriptive/summary statistics are useful for understanding your data?
-- What figures provide insight into your data?
+	- What specific munging issues do you have to address (e.g., encoding, missing data, or data to exclude)?
+	- What descriptive/summary statistics are useful for understanding your data?
+	- What figures provide insight into your data?
 
-----
 3. Model
-----
 
-You must fit at least 2 different types of models and compare results. For example, your team could pick logistic regression and Random Forest™. Or your team could pick k-means clustering and spectral clustering. One of the models must be from the course.
+	You must fit at least 2 different types of models and compare results. For example, your team could pick logistic regression and Random Forest™. Or your team could pick k-means clustering and spectral clustering. One of the models must be from the course.
 
-For each step, I want both an empirical and a logical justification for the choices you made. That is: show us that the choice you picked is empirically superior to the alternative (better F1 score, etc.) and explain why you think that is.  
+	For each step, I want both an empirical and a logical justification for the choices you made. That is: show us that the choice you picked is empirically superior to the alternative (better F1 score, etc.) and explain why you think that is.  
 
-----
 5. Deliver
------
 
-You'll communicating your findings to a technical audience. You'll give a group presentation during the final exam period on 2018-12-07 and provide a link to GitHub with Jupyter Notebooks. The presentation will be 8 minutes with 2 minutes of questions and (hopefully) answers. The presentation and organization of your repo and code style will be scored. 
+	You'll communicating your findings to a technical audience. You'll give a group presentation during the final exam period on 2018-12-07 and provide a link to GitHub with Jupyter Notebooks. The presentation will be 8 minutes with 2 minutes of questions and (hopefully) answers. The presentation and organization of your repo and code style will be scored. 
 
 ----
 Hints
