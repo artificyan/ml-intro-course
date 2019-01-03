@@ -19,6 +19,8 @@ Challenge
 
 - [Overview of other types of clustering](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a) 
 
+- "Algorithms for hierarchical clustering: an overview" in readings folder
+
 - Gaussian Mixture Models (GMM) & Expectation–Maximization (EM) Algorithm
     - Listen [EM on Talking Machines podcast](http://www.thetalkingmachines.com/blog/2015/10/9/machine-learning-mastery-and-cancer-clusters)
     - Watch GMM & EM series, videos 16.3-16.13 from [mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA8)
